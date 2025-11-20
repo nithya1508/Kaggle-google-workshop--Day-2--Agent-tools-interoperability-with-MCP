@@ -133,8 +133,10 @@ This project is provided under the MIT License.
 📬 Contact
 
 If you are interested in discussing agentic AI systems, analytics, or cloud technologies, feel free to connect.
-
 Nithyashree Babu
-Business Analytics | AI Engineering | Cloud Technologies
-GitHub: your-github-link
-LinkedIn: your-linkedin-profile
+MSc Business Analytics | AI & Data | Cloud
+GitHub:https://github.com/nithya1508 
+LinkedIn:https://www.linkedin.com/in/cognitiveinsight/
+
+
+
